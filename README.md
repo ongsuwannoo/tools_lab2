@@ -2,6 +2,7 @@
 ## LAB 2
 **StudentID** : 61070022
 **Name** : Jakkrapat Suwanno
-> *King Mongkut's Institute of Technology Ladkrabang*	
+> *[IT @ KMITL](https://www.it.kmitl.ac.th)*	
 
-    print("hello world")
+    print("Hello world, IT @ KMITL")
+[![Image name](https://www.it.kmitl.ac.th/wp-content/themes/itkmitl2017wp/img/nav-thai.svg)](https://www.it.kmitl.ac.th)
